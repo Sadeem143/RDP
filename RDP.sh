@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "SadeemRDP - Buy Cheap RDP" >&2
+printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
 {
 sudo useradd -m SADEEM
 sudo adduser SADEEM sudo
@@ -32,4 +32,4 @@ read -p "Paste Here: " CRP
 su - SADEEM -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n'
 printf 'Your SUDO Pasword Is 1434 \n'
-printf 'Terminal issue solve'
+printf 'Terminal issue solve - https://youtu.be/XZxxaNWJxT0'
